@@ -5,6 +5,4 @@ package-lock.json
 /dist/
 /.vscode/
 /*-content.zip/ 
-
-# auto generated wildcard
 BusinessPartners/.env*
